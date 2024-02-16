@@ -5,3 +5,6 @@ metrics:
 plots:
 - dvclive/plots/metrics:
     x: step
+stages:
+   train:
+   cmd: 
